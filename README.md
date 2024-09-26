@@ -1,10 +1,6 @@
 
 
-
 https://github.com/user-attachments/assets/5fb202cf-d994-4ebb-b6de-deb1add0acd1
-
-
-
 
 
 
@@ -44,3 +40,7 @@ The operational environment for the Beefslider application consists of the follo
 ## Contact Information
 
 If you have questions, feedback, or collaboration inquiries, please feel free to reach out via private message.
+
+## License
+This project is copyrighted. All rights reserved.
+

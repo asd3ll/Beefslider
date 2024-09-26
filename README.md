@@ -37,7 +37,7 @@ The operational environment for the Beefslider application consists of the follo
 - Internet connection for utilizing email functionality.
 - The application functions optimally with at least Android 10 operating system (API level 29).
 
-  ## Technical Specs
+## Technical Specs
 - Platform: Android
 - Language: Java with Android Studio UI (XML)
 - Database: SQLite

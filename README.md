@@ -40,7 +40,8 @@ The operational environment for the Beefslider application consists of the follo
 ## Technical Specs
 - Platform: Android
 - Language: Java with Android Studio UI (XML)
-- Database: SQLite
+- Database: Android internal storage (CSV files), user settings
+(SharedPreferences)
 
 ## Contact Information
 
